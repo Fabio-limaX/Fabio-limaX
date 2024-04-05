@@ -23,10 +23,9 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 <a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+### GitHub Stats... 🎖️
+
 <hr />
-<p align="center">
-🎖️GitHub Stats: 
-</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabio-limaX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fábio Lima github stats" /> 
@@ -39,9 +38,8 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 
 <p align="left" >
 </p>
-<hr />
 
-**Linguagens e ferramentas:**  
+### Linguagens e ferramentas... 🛠️
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -63,12 +61,7 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-
-### Entre em contato comigo! 📭
-<div>
-<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<hr />
 
 ![Snake animation](https://github.com/Fabio-limaX/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
