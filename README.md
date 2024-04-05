@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Desenvolvedores(as)!+Bem-vindos!;Meu+nome+é+Fábio+Lima,+tenho+18+anos.;Moro+atualmente+em+Recife,+PE;Fico+muito+feliz+por+te+ver+aqui.+:%29)](https://git.io/typing-svg)
 
-<img src="https://github.com/Fabio-limaX/Fabio-limaX/blob/main/code.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador Fábio">
+<img src="https:https://github.com/Fabio-limaX/Fabio-limaX/blob/main/code-2.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador Fábio">
 
 <p align="left" > 
 
