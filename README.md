@@ -4,7 +4,7 @@
 
 <p align="left" > 
   <h2>Sobre mim ⬇️</h2>
-  
+
 <p align="left" >
 Meu nome é <b> Fábio Lima</b>.
 Tenho 18 anos, atualmente moro em Recife/PE.<br />
@@ -19,19 +19,13 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 
 <hr />
 <p align="center">
-⚡GitHub Stats: 
+🎖️GitHub Stats: 
 </p>
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabio-limaX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fábio Lima github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-limaX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-
 </div>
-
-<p align="center">
-🏆Troféus do GitHub:
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Fabio-limaX&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
@@ -55,6 +49,26 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+### Eu estou estudando... 🧩
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+### Entre em contato comigo! 📭
+<div>
+<a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 ![Snake animation](https://github.com/Fabio-limaX/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"><b>Contagem de visitantes🕵️</b></p>
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/LimaDev-Max/count.svg" />
+ </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
