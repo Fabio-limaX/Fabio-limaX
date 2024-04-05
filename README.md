@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Desenvolvedores(as)!+Bem-vindos!;Meu+nome+é+Fábio+Lima,+tenho+18+anos.;Moro+atualmente+em+Recife,+PE;Fico+muito+feliz+por+te+ver+aqui.+:%29)](https://git.io/typing-svg)
 
+<img src="./.github/code.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 <p align="left" > 
   <h2>Sobre mim ⬇️</h2>
 
@@ -17,27 +19,15 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 - 🚀 Em constante desenvolvimento
 </p>
 
+
+
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://instagram.com/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-### GitHub Stats... 🎖️
-
 <hr />
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabio-limaX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fábio Lima github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-limaX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fabio-limaX&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
-</p>
-
-<p align="left" >
-</p>
 
 ### Linguagens e ferramentas... 🛠️
 
@@ -60,6 +50,23 @@ Um amante por esportes ⚽, apaixonado por tecnologia 👩‍💻, um ótimo jog
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+
+
+### GitHub Stats... 🎖️
+
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Fabio-limaX&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Fábio Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabio-limaX&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fabio-limaX&theme=dracula&row=2&no-bg=true&column=8&margin-w=15&margin-h=15" />
+</p>
+
+<p align="left" >
+</p>
+
 
 <hr />
 
